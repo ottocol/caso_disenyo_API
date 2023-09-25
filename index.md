@@ -6,6 +6,8 @@
 
 [Mapeado de las historias de usuario en el modelo](mapeado.md)
 
+[Definición del API REST](definicion_API.md)
+
 [Especificación del API con OpenAPI](openapi.md)
 
 [Modificación del modelo: añadir niveles de recompensa](modificacion.md)
