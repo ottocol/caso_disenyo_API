@@ -17,7 +17,7 @@ Vamos por todas las acciones de cada entidad del modelo y las mapeamos con méto
 
 **listarDeProyecto()**
 
-
+> Ver transparencia sobre "Obtener Recurso y subrecursos"
 
 ### Usuarios
 
