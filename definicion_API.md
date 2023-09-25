@@ -17,7 +17,7 @@ Vamos por todas las acciones de cada entidad del modelo y las mapeamos con méto
 
 **listarDeProyecto()**
 
-> Ver transparencia sobre "Obtener Recurso y subrecursos"
+
 
 ### Usuarios
 
@@ -30,7 +30,9 @@ Vamos por todas las acciones de cada entidad del modelo y las mapeamos con méto
 
 **ver()**
 
-> Ver transparencia sobre “recursos parciales”
+<aside>
+💡 Si el perfil de usuario tuviera muchos datos como en las redes sociales reales quizá sería mejor "verlo por partes". Ver transparencia sobre “recursos parciales”
+</aside> 
 
 
 **modificar()**
